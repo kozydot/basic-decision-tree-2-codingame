@@ -1,3 +1,5 @@
+// https://www.codingame.com/ide/puzzle/basic-decision-tree---2
+
 use std::io;
 use std::collections::HashMap;
 use itertools::Itertools;
